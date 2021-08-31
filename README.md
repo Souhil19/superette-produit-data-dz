@@ -19,7 +19,7 @@ The list is available in different formats:
 
 - CSV
 - JSON 
-- SQL
+- SQL MS sql server
 - xls
 
 
@@ -45,3 +45,4 @@ Desired language:
 Desired data:
 
 - Average price amount,Wholesale selling price
+
