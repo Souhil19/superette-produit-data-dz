@@ -1,4 +1,6 @@
 
+
+
 ![superette alger](https://i1.wp.com/benaknounshoppingcenter.com/wp-content/uploads/2018/07/supermarch%C3%A9-modifier.jpg)
 # algeria Supermarkets product dataset  قواعد بيانات للمحلات التجارية
 This repository contains the list of all  product that we find in algeria supermarkets,mini markets.  The data is up-to-date with help of other contributor.
@@ -46,3 +48,4 @@ Desired data:
 
 - Average price amount,Wholesale selling price
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuechoudNassim&repo=superette-produit-data-dz)](https://github.com/GuechoudNassim/superette-produit-data-dz)
